@@ -1,2 +1,3 @@
 # tutorial-hello-world
 Quick tutorial exercise 
+I used to use Perforce but everyone is using Git these days...
